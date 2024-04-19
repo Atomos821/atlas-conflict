@@ -1,0 +1,8 @@
+GameProject {
+ ID "AtlasConflict"
+ GUID "61266E69ACC7A0D0"
+ TITLE "Atlas Conflict"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
